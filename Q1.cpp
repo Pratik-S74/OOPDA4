@@ -90,6 +90,4 @@ int main()
    TrafficDepartment trafficDep;
    trafficDep.ReadCSV("/home/pratik_s/Downloads/OOPDA4/A4-Q1.csv");
    trafficDep.printInformation();
-
-
 }
