@@ -1,0 +1,18 @@
+*******************************************************OOPD aassignment 4**************************************************************************************************
+--> We are implementing sort of traffic Managment with object oriented programming.
+    - The folder contains 4 cpp files each for one question.
+
+    - Have implemented class for manipulating information about a vehicle and the information of the owner of the vehicles.
+
+    - In Q3 functionality is added for sending a traffic violation notice to the offender.
+
+    - In Q4 the functionality is added for the offender to challenge the recieved complaint.
+
+--> Here Make file generates the corresponding binary and optimized file of all 4 cpp files simultenously.
+
+ To run makefile use following command,
+    --> make all
+        - This will generate 4 debug binary files and 4 optimized binary files that can be executed.
+    --> make debug
+    --> ./debug_binary_q(any of the question mentioned)
+
